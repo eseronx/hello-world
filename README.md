@@ -1,4 +1,13 @@
 # hello-world
-Just another repository
+Here you can know all about me...
 
-Hello, i like coffe :))
+
+I like coffee and im a starter at Programming and learning actually Python. 
+
+:))
+
+
+If you need something, just send a message.
+
+
+Keep going
